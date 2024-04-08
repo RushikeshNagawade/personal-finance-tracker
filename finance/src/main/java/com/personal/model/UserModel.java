@@ -13,7 +13,7 @@ import java.util.Date;
 @Setter
 @Getter
 @NoArgsConstructor
-public class User {
+public class UserModel {
 
 
     @Id
